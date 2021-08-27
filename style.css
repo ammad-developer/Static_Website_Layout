@@ -1,0 +1,54 @@
+    .header {
+        background-color: #4EB397 !important;
+        height: 9vh !important;
+    }
+    
+    .fa-sliders,
+    .fa-bell-o {
+        border: 1px solid white;
+        border-radius: 100px !important;
+        padding: 10px;
+        font-size: 18px !important;
+        color: white;
+    }
+    
+    .form-control {
+        border: 1px solid white !important;
+        border-radius: 100px !important;
+        background-color: #4EB397 !important;
+        color: white !important;
+        font-size: 15px;
+        box-shadow: none !important;
+    }
+    
+     ::placeholder {
+        color: white !important;
+        opacity: 1;
+    }
+    
+    .username,
+    .Logo {
+        color: white;
+    }
+    
+    .search:active {
+        animation: none;
+        transition: none;
+        border: none;
+    }
+    
+    .nav-link:hover {
+        background-color: #4EB397 !important;
+    }
+    
+    .fa-shopping-bag,
+    .fa-user-o,
+    .fa-television,
+    .fa-life-ring,
+    .fa-shopping-cart {
+        font-size: 50px !important;
+    }
+    
+    .card1 {
+        color: white;
+    }
